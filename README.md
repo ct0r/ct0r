@@ -1,1 +1,1 @@
-# No fancy profile page. Sorry.
+No fancy profile page. Sorry.
